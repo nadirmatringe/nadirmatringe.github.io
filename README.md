@@ -1,6 +1,7 @@
 # Nadir Matringe
 
-Chercheur en mathématiques
+Chercheur en mathématiques  
+Membre du [SIMIS](https://URL-DE-L-INSTITUT)
 
 ---
 
