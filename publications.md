@@ -13,27 +13,37 @@
 - *On relative cuspidality*.  
   [arXiv:2506.08393](https://arxiv.org/abs/2506.08393)
 
-- *On completeness of local intertwining periods*, avec H. Lu.  
-  [arXiv:2503.11988](https://arxiv.org/abs/2503.11988)
+- *On completeness of local intertwining periods*, avec H. Lu.    [arXiv:2503.11988](https://arxiv.org/abs/2503.11988)
 
-- *Local converse theorems and Langlands parameters*.  
-  À paraître dans *Trans. Amer. Math. Soc.*  
-  [arXiv:2409.20240](https://arxiv.org/abs/2409.20240)
-
-- *On modular rigidity for GL(n)*, avec A. Minguez et V. Sécherre.  
-  [arXiv:2409.15209](https://arxiv.org/abs/2409.15209)
-
-- *Gamma factors and root numbers of pairs for the Galois and the linear model*.  
+- *Gamma factors and root numbers of pairs for the Galois and the linear model*. En cours de généralisation aux reprédentations généeiqued unitaires, avec R. Beuzart-Plessis.
   [arXiv:2407.02850](https://arxiv.org/abs/2407.02850)
 
 - *The sign of linear periods*, avec U.K. Anandavardhanan, H. Lu, V. Sécherre et C. Yang.  
   [arXiv:2402.12106](https://arxiv.org/abs/2402.12106)
 
+---
+
+## Articles à paraître
+
+- *Local converse theorems and Langlands parameters*.  
+  À paraître dans *Trans. Amer. Math. Soc.*  
+  [arXiv:2409.20240](https://arxiv.org/abs/2409.20240)
+
+- *On modular rigidity for GL(n)*, avec A. Minguez et V. Sécherre.
+  À paraître dans *IMRN* 
+  [arXiv:2409.15209](https://arxiv.org/abs/2409.15209)
+
+---
+
+## Articles publiés
+
 - *Cuspidal ℓ-modular representations of GL(n)(F) distinguished by a Galois involution*, avec R. Kurinczuk et V. Sécherre.  
-  À paraître dans *Forum Math. Sigma*.  
+  *Forum Math. Sigma* 13 (2025), Paper No. e48, 41 pp.
   [arXiv:2310.15820](https://arxiv.org/abs/2310.15820)
 
 - *On the non-vanishing of Shalika newvectors at the identity*, avec H. Grobner.
+  *Rad Hrvat. Akad. Znan. Umjet. Mat. Znan.* 28(558) (2024), 93–106.
+  Volume en l'honneur de Marko Tadić.
 
   - *On local intertwining periods*, avec O. Offen et C. Yang.  
   *J. Funct. Anal.* 286 (2024), 110293.  
