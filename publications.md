@@ -123,7 +123,7 @@ La classification de Kirillov et donc le résultat principal de l'article publi�
   *Adv. Math.* 360 (2020), 106915. 
   [arXiv:1805.04047](https://arxiv.org/abs/1805.04047)
 
-- *Test vectors for local cuspidal Rankin–Selberg integrals of GL(n), and reduction modulo ℓ*, avec R. Kurinczuk.  
+1. *Test vectors for local cuspidal Rankin–Selberg integrals of GL(n), and reduction modulo ℓ*, avec R. Kurinczuk.  
   *Nagoya Math. J.* 233 (2019), 170–192.  
   [arXiv:1501.075877](https://arxiv.org/abs/1501.075877)
 
@@ -147,7 +147,7 @@ La classification de Kirillov et donc le résultat principal de l'article publi�
   *Manuscripta Math.* 152 (2017), 223–240.  
   [arXiv:1411.6046](https://arxiv.org/abs/1411.6046)
 
-- *Rankin–Selberg local factors modulo ℓ*, avec R. Kurinczuk.  
+1. *Rankin–Selberg local factors modulo ℓ*, avec R. Kurinczuk.  
   *Selecta Math.* 23 (2017), 767–811.  
   [arXiv:1408.5252](https://arxiv.org/abs/1408.5252)
 
