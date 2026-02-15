@@ -199,6 +199,6 @@ La classification de Kirillov et donc le résultat principal de l'article publi�
   *Manuscripta Math.* 131 (2010), 415–426.  
   [arXiv:0807.2748](https://arxiv.org/abs/0807.2748)
 
-1.*Distinguished principal series representations for GL(n) over a p-adic field*.  
+1. *Distinguished principal series representations for GL(n) over a p-adic field*.  
   *Pacific J. Math.* 239 (2009).  
   [arXiv:0806.1584](https://arxiv.org/abs/0806.1584)
