@@ -1,6 +1,6 @@
 # Nadir Matringe
 
-Enseignant/Chercheur en mathématiques  
+Enseignant-Chercheur en mathématiques  
 Membre du [SIMIS](https://www.simis.cn/)
 
 ---
