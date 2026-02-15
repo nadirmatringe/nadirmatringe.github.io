@@ -10,6 +10,10 @@
 - *Discrete series representations of quaternionic with symplectic periods*, avec V. Sécherre, S. Stevens, M. Suzuki. 
   [arXiv:2503.08955](https://arxiv.org/abs/2503.08955)
 
+- *Distinguished dihedral representations of GL(2) over a p-adic field*.
+  [arXiv:math/0610724](https://arxiv.org/abs/math/0610724)
+Non destiné à être publié.
+
 - *On relative cuspidality*.  
   [arXiv:2506.08393](https://arxiv.org/abs/2506.08393)
 
@@ -53,7 +57,7 @@
   *Rad Hrvat. Akad. Znan. Umjet. Mat. Znan.* 28(558) (2024), 93–106.
   Volume en l'honneur de Marko Tadić.
 
-  - *On local intertwining periods*, avec O. Offen et C. Yang.  
+- *On local intertwining periods*, avec O. Offen et C. Yang.  
   *J. Funct. Anal.* 286 (2024), 110293.  
   [arXiv:2303.03663](https://arxiv.org/abs/2303.03663)
 
@@ -196,6 +200,3 @@
 - *Distinguished principal series representations for GL(n) over a p-adic field*.  
   *Pacific J. Math.* 239 (2009).  
   [arXiv:0806.1584](https://arxiv.org/abs/0806.1584)
-
-- *Distinguished dihedral representations of GL(2) over a p-adic field*.  
-  [arXiv:math/0610724](https://arxiv.org/abs/math/0610724)
