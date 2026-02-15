@@ -41,7 +41,7 @@ Non destiné à être publié.
 
 ## Actes de conférence
 
-- - *Modular Deligne representations of the Weil group, local Langlands correspondence and local constants*,  
+- *Modular Deligne representations of the Weil group, local Langlands correspondence and local constants*,  
  *RIMS Kōkyūroku No. 2136, Automorphic forms, automorphic representations and related topics*.  
   [Voir les actes](http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2136.html)
 
@@ -116,9 +116,11 @@ Non destiné à être publié.
 - *Distinction for unipotent p-adic groups*.  
   *Bull. Iranian Math. Soc.* 46 (2020), 1571–1582.  
   [arXiv:1909.07289](https://arxiv.org/abs/1909.07289)
-
+La classification de Kirillov et donc le résultat principal de l'article publié, tels qu'énoncés, sont faux. L'erreur est mineure, cf. la version arxiv et l'erratum en appendice de *.
+    *J. Math. Soc. Japan 76 (2024), no. 4, 1187–1208*.
+  
 - *Test vectors for finite periods and base change*, avec U.K. Anandavardhanan.  
-  *Adv. Math.* 360 (2020), 106915.  
+  *Adv. Math.* 360 (2020), 106915. 
   [arXiv:1805.04047](https://arxiv.org/abs/1805.04047)
 
 - *Test vectors for local cuspidal Rankin–Selberg integrals of GL(n), and reduction modulo ℓ*, avec R. Kurinczuk.  
@@ -153,13 +155,14 @@ Non destiné à être publié.
   *Math. Res. Lett.* 22 (2015), 697–717.  
   [arXiv:1406.1935](https://arxiv.org/abs/1406.1935)
 
-- *Unitary representations of GL(n,K) distinguished by a Galois involution*.  
-  *Pacific J. Math.* 271 (2014), 445–460.  
-  [arXiv:1308.1266](https://arxiv.org/abs/1308.1266)
-
 - *On the local Bump–Friedberg L-function*.  
   *J. Reine Angew. Math.* 709 (2015), 119–170.  
   [arXiv:1301.0350](https://arxiv.org/abs/1301.0350)
+
+
+- *Unitary representations of GL(n,K) distinguished by a Galois involution*.  
+  *Pacific J. Math.* 271 (2014), 445–460.  
+  [arXiv:1308.1266](https://arxiv.org/abs/1308.1266)
 
 - *A specialisation of the Bump–Friedberg L-function*.  
   *Canad. Math. Bull.* 58 (2015), 580–595.  
