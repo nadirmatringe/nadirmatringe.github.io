@@ -35,6 +35,14 @@
 
 ---
 
+## Actes de conférence
+
+- - *Modular Deligne representations of the Weil group, local Langlands correspondence and local constants*,  
+ *RIMS Kōkyūroku No. 2136, Automorphic forms, automorphic representations and related topics*.  
+  [Voir les actes](http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2136.html)
+
+---
+
 ## Articles publiés
 
 - *Cuspidal ℓ-modular representations of GL(n)(F) distinguished by a Galois involution*, avec R. Kurinczuk et V. Sécherre.  
