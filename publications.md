@@ -59,6 +59,7 @@ Non destiné à être publié.
 1. *On the non-vanishing of Shalika newvectors at the identity*, avec H. Grobner.
   *Rad Hrvat. Akad. Znan. Umjet. Mat. Znan.* 28(558) (2024), 93–106.
   Volume en l'honneur de Marko Tadić.
+[Version publiée](https://dizbi.hazu.hr/?pr=i&id=2632214)
 
 1. *On local intertwining periods*, avec O. Offen et C. Yang.  
   *J. Funct. Anal.* 286 (2024), 110293.  
