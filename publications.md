@@ -53,7 +53,11 @@
   *J. Théor. Nombres Bordeaux* 34 (2023), 903–916.  
   [arXiv:2108.03017](https://arxiv.org/abs/2108.03017)
 
-- *Distinction inside L-packets of SL(n)*, avec U.K. Anandavardhanan.  
+- *Symmetric periods for automorphic forms on unipotent groups*.
+    *J. Math. Soc. Japan 76 (2024), no. 4, 1187–1208*.
+  [arXiv:2212.12766](https://arxiv.org/abs/2212.12766)
+
+- *Distinction inside L-packets of SL(n)*, avec U.K. Anandavardhanan. 
   *Algebra Number Theory* 17 (2023), 45–82.  
   [arXiv:2010.05678](https://arxiv.org/abs/2010.05678)
 
