@@ -7,7 +7,7 @@
 - *Intertwining periods, L-functions and local-global principles for distinction of automorphic representations*, avec O. Offen et C. Yang.  
   [arXiv:2509.00441](https://arxiv.org/abs/2509.00441)
 
-- *Quaternionic symplectic model for discrete series representations*, avec V. Sécherre, S. Stevens, M. Suzuki. 
+- *Discrete series representations of quaternionic with symplectic periods*, avec V. Sécherre, S. Stevens, M. Suzuki. 
   [arXiv:2503.08955](https://arxiv.org/abs/2503.08955)
 
 - *On relative cuspidality*.  
@@ -15,7 +15,7 @@
 
 - *On completeness of local intertwining periods*, avec H. Lu.    [arXiv:2503.11988](https://arxiv.org/abs/2503.11988)
 
-- *Gamma factors and root numbers of pairs for the Galois and the linear model*. En cours de généralisation aux reprédentations génériques unitaires, avec R. Beuzart-Plessis.
+- *Gamma factors and root numbers of pairs for the Galois and the linear model*. En cours de généralisation aux représentations génériques unitaires, avec R. Beuzart-Plessis.
   [arXiv:2407.02850](https://arxiv.org/abs/2407.02850)
 
 - *The sign of linear periods*, avec U.K. Anandavardhanan, H. Lu, V. Sécherre et C. Yang.  
