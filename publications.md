@@ -7,8 +7,8 @@
 - *Intertwining periods, L-functions and local-global principles for distinction of automorphic representations*, avec O. Offen et C. Yang.  
   [arXiv:2509.00441](https://arxiv.org/abs/2509.00441)
 
-- *Quaternionic symplectic model for discrete series representations*, avec M. Suzuki.  
-  [arXiv:2507.16364](https://arxiv.org/abs/2507.16364)
+- *Quaternionic symplectic model for discrete series representations*, avec V. Sécherre, S. Stevens, M. Suzuki. 
+  [arXiv:2503.08955](https://arxiv.org/abs/2503.08955)
 
 - *On relative cuspidality*.  
   [arXiv:2506.08393](https://arxiv.org/abs/2506.08393)
