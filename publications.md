@@ -2,17 +2,13 @@
 
 ---
 
-## Prépublications et articles à paraître
+## Prépublications
 
 - *Intertwining periods, L-functions and local-global principles for distinction of automorphic representations*, avec O. Offen et C. Yang.  
   [arXiv:2509.00441](https://arxiv.org/abs/2509.00441)
 
 - *Discrete series representations of quaternionic with symplectic periods*, avec V. Sécherre, S. Stevens, M. Suzuki. 
   [arXiv:2503.08955](https://arxiv.org/abs/2503.08955)
-
-- *Distinguished dihedral representations of GL(2) over a p-adic field*.
-  [arXiv:math/0610724](https://arxiv.org/abs/math/0610724)
-Non destiné à être publié.
 
 - *On relative cuspidality*.  
   [arXiv:2506.08393](https://arxiv.org/abs/2506.08393)
@@ -24,6 +20,10 @@ Non destiné à être publié.
 
 - *The sign of linear periods*, avec U.K. Anandavardhanan, H. Lu, V. Sécherre et C. Yang.  
   [arXiv:2402.12106](https://arxiv.org/abs/2402.12106)
+
+- *Distinguished dihedral representations of GL(2) over a p-adic field*.
+  [arXiv:math/0610724](https://arxiv.org/abs/math/0610724)
+Non destiné à être publié.
 
 ---
 
