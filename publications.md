@@ -4,6 +4,9 @@
 
 ## Prépublications
 
+- *Epsilon dichotomy via root numbers of intertwining periods*.
+  [arXiv:2512.19831](https://arxiv.org/abs/2512.19831)
+
 - *Intertwining periods, L-functions and local-global principles for distinction of automorphic representations*, avec O. Offen et C. Yang.  
   [arXiv:2509.00441](https://arxiv.org/abs/2509.00441)
 
