@@ -4,6 +4,14 @@
 
 ## Prépublications
 
+- *Cuspidal ℓ-modular representations of GL(n)(F) distinguished by a Galois involution, II*, avec R. Kurinzuk et V. Sécherre.
+  [arxiv.org/abs/2604.01931](https://arxiv.org/abs/2604.01931)
+
+- *Godement-Jacquet gamma factors of distinguished representations of
+  GLn(Fq)*, avec R. Kurinzuk et V. Sécherre.
+  [arxiv.org/abs/2604.01731](https://arxiv.org/abs/2604.01731)
+
+
 - *Epsilon dichotomy via root numbers of intertwining periods*.
   [arXiv:2512.19831](https://arxiv.org/abs/2512.19831)
 
@@ -15,8 +23,6 @@
 
 - *On relative cuspidality*.  
   [arXiv:2506.08393](https://arxiv.org/abs/2506.08393)
-
-- *On completeness of local intertwining periods*, avec H. Lu.    [arXiv:2503.11988](https://arxiv.org/abs/2503.11988)
 
 - *Gamma factors and root numbers of pairs for the Galois and the linear model*. En cours de généralisation aux représentations génériques unitaires, avec R. Beuzart-Plessis.
   [arXiv:2407.02850](https://arxiv.org/abs/2407.02850)
@@ -31,6 +37,9 @@ Non destiné à être publié.
 ---
 
 ## Articles à paraître
+
+- *On completeness of local intertwining periods*, avec H. Lu.
+   À paraître dans *J. Funct. Anal.* [arXiv:2503.11988](https://arxiv.org/abs/2503.11988)
 
 - *Local converse theorems and Langlands parameters*.  
   À paraître dans *Trans. Amer. Math. Soc.*  
