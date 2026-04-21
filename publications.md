@@ -23,6 +23,7 @@
 
 - *On relative cuspidality*.  
   [arXiv:2506.08393](https://arxiv.org/abs/2506.08393)
+Le résultat principal de ce papier est faux (pour (GL_{4n},Sp_{4n} par exemple), et le problème vient du passage des fonctions relativement cuspidales sur l'espage tangent à celles sur l'espace symétrique, la constante \lambda de la procédure en question dépendant du choix du parabolique \theta-déployé. Ceci nous a été signalé par un rapporteur. Cependant nous pensons que la méthode permet de prouver l'existence de représentations (non nécessairement fortement) relativement cuspidales, en utilisant de manière appropriée la décomposition de Cartan de l'espace symétrique. (je souffre activement à corriger l'erreur).
 
 - *Gamma factors and root numbers of pairs for the Galois and the linear model*. En cours de généralisation aux représentations génériques unitaires, avec R. Beuzart-Plessis.
   [arXiv:2407.02850](https://arxiv.org/abs/2407.02850)
