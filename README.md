@@ -21,3 +21,7 @@ Actuellement: théorie des représentations des groupes p-adiques et adéliques.
 
 → Voir : [Enseignement](enseignement.html)
 
+## Culture
+
+→ Voir : [Culture](culture.html)
+
