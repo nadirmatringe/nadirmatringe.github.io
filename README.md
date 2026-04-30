@@ -27,4 +27,4 @@ Actuellement: théorie des représentations des groupes p-adiques et adéliques.
 
 ## Créations
 
-→ Voir : [Créations](créations.html)
+→ Voir : [Créations](créations.md)
