@@ -18,9 +18,6 @@
 - *Intertwining periods, L-functions and local-global principles for distinction of automorphic representations*, avec O. Offen et C. Yang.  
   [arXiv:2509.00441](https://arxiv.org/abs/2509.00441)
 
-- *Discrete series representations of quaternionic with symplectic periods*, avec V. Sécherre, S. Stevens, M. Suzuki. 
-  [arXiv:2503.08955](https://arxiv.org/abs/2503.08955)
-
 - *On relative cuspidality*.  
   [arXiv:2506.08393](https://arxiv.org/abs/2506.08393)
 Le résultat principal de ce papier est faux, comme suggéré par un rapporteur. Pour (GL_{4n},Sp_{4n}) par exemple, la classification des séries relativement discrètes de Lapid-Offen montre qu'il n'existe pas de représentations fortement relativement cuspidales, bien que nos hypothèses de travail soient vérifiées pour cette paire. Le problème vient du passage des fonctions relativement cuspidales sur l'espage tangent à celles sur l'espace symétrique dans la section finale 7. La constante \mu de la procédure en question dépendant du choix du parabolique \theta-déployé, et un choix uniforme est en général impossible. J'ai espoir que la méthode permet de prouver l'existence de représentations (non nécessairement fortement) relativement cuspidales sous notre hypothèse de travail, mais mes tentatives se sont soldées par un échec. 
@@ -38,6 +35,10 @@ Non destiné à être publié.
 ---
 
 ## Articles à paraître
+
+- *Discrete series representations of quaternionic with symplectic periods*, avec V. Sécherre, S. Stevens, M. Suzuki. 
+  [arXiv:2503.08955](https://arxiv.org/abs/2503.08955)
+  À paraître dans *J. Reine Angew. Math.*
 
 - *On completeness of local intertwining periods*, avec H. Lu.
    À paraître dans *J. Funct. Anal.* [arXiv:2503.11988](https://arxiv.org/abs/2503.11988)
@@ -85,6 +86,7 @@ Non destiné à être publié.
 
 1. *Whkttaker functional and contragredient in characteristic not p*. with Justin Trias.
 *Mathematical Research Letters, Vol. 31 (2024), No. 4, 1153-1168*.
+[arxiv.org/abs/2209.15353](https://arxiv.org/abs/2209.15353)
 
 1. *Distinction inside L-packets of SL(n)*, avec U.K. Anandavardhanan. 
   *Algebra Number Theory* 17 (2023), 45–82.  
