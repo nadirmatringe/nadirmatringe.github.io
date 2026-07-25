@@ -83,6 +83,9 @@ Non destiné à être publié.
     *J. Math. Soc. Japan 76 (2024), no. 4, 1187–1208*.
   [arXiv:2212.12766](https://arxiv.org/abs/2212.12766)
 
+1. *Whkttaker functional and contragredient in characteristic not p*. with Justin Trias.
+*Mathematical Research Letters, Vol. 31 (2024), No. 4, 1153-1168*.
+
 1. *Distinction inside L-packets of SL(n)*, avec U.K. Anandavardhanan. 
   *Algebra Number Theory* 17 (2023), 45–82.  
   [arXiv:2010.05678](https://arxiv.org/abs/2010.05678)
