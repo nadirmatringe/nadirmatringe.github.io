@@ -5,7 +5,7 @@
 ## Prépublications
 
 - *The algebraic theory of non-archimedean intertwining periods*, avec Fei Chen.
-- [arXiv:org/abs/2610.17783](arXiv:org/abs/2610.17783).
+ [arXiv:org/abs/2610.17783](arXiv:org/abs/2610.17783).
 
 - *Cuspidal ℓ-modular representations of GL(n)(F) distinguished by a Galois involution, II*, avec R. Kurinzuk et V. Sécherre.
   [arxiv.org/abs/2604.01931](https://arxiv.org/abs/2604.01931)
