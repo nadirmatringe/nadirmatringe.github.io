@@ -4,6 +4,9 @@
 
 ## Prépublications
 
+- *The algebraic theory of non-archimedean intertwining periods*, avec Fei Chen.
+- [arXiv:org/abs/2610.17783](arXiv:org/abs/2610.17783).
+
 - *Cuspidal ℓ-modular representations of GL(n)(F) distinguished by a Galois involution, II*, avec R. Kurinzuk et V. Sécherre.
   [arxiv.org/abs/2604.01931](https://arxiv.org/abs/2604.01931)
 
@@ -12,7 +15,7 @@
   [arxiv.org/abs/2604.01731](https://arxiv.org/abs/2604.01731)
 
 
-- *Epsilon dichotomy via root numbers of intertwining periods*.
+- *Cuspidal distinction via intertwining periods*.
   [arXiv:2512.19831](https://arxiv.org/abs/2512.19831)
 
 - *Intertwining periods, L-functions and local-global principles for distinction of automorphic representations*, avec O. Offen et C. Yang.  
